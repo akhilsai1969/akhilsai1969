@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Webdevelopement,Unreal engine, Reactnative
 - 🌱 I’m currently learning ...Web development 
 - 💞️ I’m looking to collaborate on ...Projects related to wordpress, Web-development 
-- 📫 How to reach me ...
+
 
 <!---
 akhilsai1969/akhilsai1969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
